@@ -1,0 +1,10 @@
+{
+  "client_id": "https://kokinoge.github.io/one-oauth-client/biziq-client.json",
+  "client_name": "ALBONA ONE",
+  "client_uri": "https://kokinoge.github.io/one-oauth-client/",
+  "redirect_uris": ["http://127.0.0.1:47613/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "openid offline_access"
+}
